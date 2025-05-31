@@ -28,3 +28,4 @@ C:\Users\ebene\OneDrive\Desktop\projects\azure-devops\obj\Debug\net8.0\refint\az
 C:\Users\ebene\OneDrive\Desktop\projects\azure-devops\obj\Debug\net8.0\azure-devops.pdb
 C:\Users\ebene\OneDrive\Desktop\projects\azure-devops\obj\Debug\net8.0\azure-devops.genruntimeconfig.cache
 C:\Users\ebene\OneDrive\Desktop\projects\azure-devops\obj\Debug\net8.0\ref\azure-devops.dll
+C:\Users\ebene\OneDrive\Desktop\projects\azure-devops\obj\Debug\net8.0\azure-devops.sourcelink.json

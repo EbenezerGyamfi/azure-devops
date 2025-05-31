@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-devops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+779fb68284b84c3ed96f4c7338cd4a309bdca1b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-devops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-devops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
